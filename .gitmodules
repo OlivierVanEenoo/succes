@@ -1,0 +1,4 @@
+[submodule "mollie/mollie-odoo"]
+	path = mollie/mollie-odoo
+	url = git@github.com:mollie/mollie-odoo.git
+	branch = 13.0
